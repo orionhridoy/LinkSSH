@@ -12,7 +12,7 @@ A modern all-in-one SSH client for Windows featuring terminal, SFTP, live remote
 ![Terminal: xterm.js](https://img.shields.io/badge/terminal-xterm.js-241F31)
 ![Version](https://img.shields.io/badge/version-1.0.0-4F8CFF)
 
-[Download](#-download) | [Features](#-why-linkssh) | [Quick Start](#-quick-start) | [Shortcuts](#-keyboard-shortcuts) | [Build from Source](#-build-from-source) | [FAQ](#-faq)
+[Download](#-download) | [Features](#-why-linkssh) | [Quick Start](#-quick-start) | [Shortcuts](#-keyboard-shortcuts) | [FAQ](#-faq)
 
 <img src="docs/screenshot-dark.png" alt="LinkSSH for Windows: dark mode SSH client with server sidebar, SFTP file explorer, terminal tabs, and transfer panel" width="850" />
 
