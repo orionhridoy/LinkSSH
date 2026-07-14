@@ -166,21 +166,6 @@ Works on Windows 10 and Windows 11, 64-bit.
 | `Backspace` | Parent directory |
 | `Ctrl+A` | Select all files |
 
-## 🛠️ Build from Source
-
-Requirements: Node.js 22 or newer on Windows.
-
-```bash
-git clone <this repository>
-cd linkssh
-npm install
-npm start            # build and launch in development
-npm run typecheck    # strict TypeScript checks
-npm run dist         # produce installer and portable zip in release/
-```
-
-Pass `--dev` to `node build.mjs` for unminified bundles while debugging.
-
 ## 🏗️ Architecture
 
 | Layer | Technology |
@@ -191,8 +176,6 @@ Pass `--dev` to `node build.mjs` for unminified bundles while debugging.
 | File watching | chokidar 4 |
 | Bundling | esbuild with strict TypeScript |
 | Credential storage | Electron safeStorage backed by Windows DPAPI |
-
-Source layout: main process in `src/main`, sandboxed IPC bridge in `src/preload`, UI in `src/renderer`, shared contracts in `src/shared`.
 
 ## ❓ FAQ
 
