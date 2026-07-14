@@ -12,7 +12,7 @@ A modern all-in-one SSH client for Windows featuring terminal, SFTP, live remote
 ![Terminal: xterm.js](https://img.shields.io/badge/terminal-xterm.js-241F31)
 ![Version](https://img.shields.io/badge/version-1.0.0-4F8CFF)
 
-[Download](#-download) | [Features](#-why-linkssh) | [Quick Start](#-quick-start) | [Shortcuts](#-keyboard-shortcuts) | [FAQ](#-faq)
+[Download](#-download) | [Features](#-why-linkssh) | [Quick Start](#-quick-start) | [Shortcuts](#keyboard-shortcuts) | [FAQ](#-faq)
 
 <img src="docs/screenshot-dark.png" alt="LinkSSH for Windows: dark mode SSH client with server sidebar, SFTP file explorer, terminal tabs, and transfer panel" width="850" />
 
@@ -150,7 +150,7 @@ Works on Windows 10 and Windows 11, 64-bit.
 2. **Connect.** Click the profile. Verify the host key fingerprint on first connect.
 3. **Work.** Use the Terminal, Files, and Monitor tabs. Double-click any file to edit it live. Drag files in to upload. Close the window and it keeps running in the tray.
 
-## ⌨️ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Shortcut | Action |
 | -------- | ------ |
