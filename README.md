@@ -1,6 +1,6 @@
 <div align="center">
 
-# LinkSSH
+# Link SSH
 
 **The Modern SSH Workspace**
 
