@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="LinkSSH logo" width="110" />
-
 # LinkSSH
 
 **The Modern SSH Workspace**
